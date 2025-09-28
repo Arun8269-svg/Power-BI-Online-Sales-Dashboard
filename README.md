@@ -45,5 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to ANANYA SHUKLA (mailto:ananyashukla3443@gmail.com).
+For any questions or feedback, feel free to reach out to ARUN SINGH YADAV (mailto:arun8269136399@gmail.com).
+
 
